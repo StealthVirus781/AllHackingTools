@@ -4,15 +4,15 @@
 <a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/StealthVirus871"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/StealthVirus871"><img title="Autor" src="https://img.shields.io/badge/Author-StealthVirus-blue?style=for-the-badge&logo=github"></a>
 
 <p align="center"
 
-• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
+• <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/StealthVirus871/AllHackingTools/issues">Issues</a> 
+• <a href="https://github.com/StealthVirus871/AllHackingTools/projects">Project</a> 
+• <a href="https://github.com/StealthVirus871/AllHackingTools/wiki">Wikipedia</a> •
 
 </p>
 
@@ -22,7 +22,7 @@
 
 #### Привіт, якщо ви хочете швидко налаштувати термукс, ось вам!  Більше інструментів злому одним інструментом!
 
-> Я не відповідаю за ваші дії. Скачуюче програмне забезпечення з цього репозиторію, ви згоджуєтесь з [ліцензією](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
+> Я не відповідаю за ваші дії. Скачуюче програмне забезпечення з цього репозиторію, ви згоджуєтесь з [ліцензією](https://github.com/StealthVirus871/AllHackingTools/blob/main/LICENSE).
 
 ---------
 ## Підтримувані системи
@@ -64,7 +64,7 @@
 * `termux-setup-storage`
 * `apt full-upgrade`
 * `apt install git`
-* `git clone https://github.com/mishakorzik/AllHackingTools`
+* `git clone https://github.com/StealthVirus871/AllHackingTools`
 * `cd AllHackingTools`
 * `bash Install.sh`
 
@@ -96,27 +96,27 @@ ngrok http 80
 
 #### Запустите команду для запуска AllHackingTools: msdconsole
 ## Меню AllHackingTool:
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Збір Інформации </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти експлуатации </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та підропка </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти веб-атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому камер </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Вітдалений троянський RAT </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти ін’єкції SQL </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки DDOS </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Для Фішингових Атак </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому хешу </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Світових Списків </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
-- <a href="https://github.com/mishakorzik">Діскорд зливи</a>
-- <a href="https://github.com/mishakorzik">Телеграм інфо</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інші Інструменти </a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Безкоштовний проксі </a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Змішування </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Збір Інформации </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти експлуатации </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Обнюхування та підропка </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти веб-атак </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому камер </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Вітдалений троянський RAT </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти ін’єкції SQL </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce </a>
+     - <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки DDOS </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Для Фішингових Атак </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти взлому хешу </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Генератор Світових Списків </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Атаки XSS </a>
+- <a href="https://github.com/StealthVirus871">Діскорд зливи</a>
+- <a href="https://github.com/StealthVirus871">Телеграм інфо</a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Веб-сканування </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Бездротової Атаки </a>
+- <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інші Інструменти </a>
+     - <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Безкоштовний проксі </a>
+     - <a href="https://github.com/StealthVirus871/AllHackingTools/blob/main/.github/TOOLS.md">Інструменти Змішування </a>
 
 <details id="missing-code-coverage">
   <summary>Нові Команди</summary>
@@ -228,10 +228,10 @@ figlet -f block  AND  toilet -f block
 
 ```
  Електронні листи:
-  developer.mishakorzhik@gmail.com
+  developer.StealthVirus871@gmail.com
 
  Розробник:
-  misha korzhik
+  Stealth Virus
 ```
 
 ### Помилка? Якщо інструмент виходить з ладу, виконайте такі дії: 
@@ -240,7 +240,7 @@ figlet -f block  AND  toilet -f block
    помилку детально 
 
    2. Зв’яжіться зі мною за допомогою наступного 
-   електронна адреса: developer.mishakorzhik@gmail.com 
+   електронна адреса: developer.StealthVirus871@gmail.com 
 
    3. Надішліть знімок екрана та поясніть,
    ваша проблема з цією помилкою розглянеться
@@ -366,14 +366,14 @@ Build:
 ## Donate
 
 **Донат в низу на кнопці, Bye me a coffee**
-<a href="https://www.buymeacoffee.com/misakorzik"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
+<a href="https://www.buymeacoffee.com/StealthVirus871"><img title="Donate" src="https://img.shields.io/badge/Donate-AllHackingTools-yellow?style=for-the-badge&logo=github"></a>
 
 ## Скріншоти
 #### Рекомендую переглянути скріншоти на AllHackingTools
 
 <br>
 <p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/StealthVirus871/StealthVirus871.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
 <img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
 <img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
 <img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
