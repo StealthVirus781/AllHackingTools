@@ -1,19 +1,19 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
+<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/StealthVirus781.menu.io/master/img/Logo/IMG-StealthVirus.jpg"/>
 
 <p align="center">
-<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
+<a href="https://github.com/StealthVirus781/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
+<a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
-<a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/StealthVirus781"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/StealthVirus781"><img title="Autor" src="https://img.shields.io/badge/Author-StealthVirus-blue?style=for-the-badge&logo=github"></a>
 
 </p>
 
 <p align="center">
-• <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/projects">Project</a> 
-• <a href="https://github.com/mishakorzik/AllHackingTools/wiki">Wikipedia</a> •
+• <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/StealthVirus781/AllHackingTools/issues">Issues</a> 
+• <a href="https://github.com/StealthVirus781/AllHackingTools/projects">Project</a> 
+• <a href="https://github.com/StealthVirus781/AllHackingTools/wiki">Wikipedia</a> •
 
 </p>
 
@@ -23,23 +23,23 @@
 
 #### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
 
-> I am not responsible for your actions. By downloading software from this repository, you agree to the [license](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
+> I am not responsible for your actions. By downloading software from this repository, you agree to the [license](https://github.com/StealthVirus781/AllHackingTools/blob/main/LICENSE).
 
 ---------
 ## Supported systems
 #### will download 5-20 minutes
 
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Supported-Termux-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/StealthVirus781"><img title="Termux" src="https://img.shields.io/badge/Supported-Termux-blue?style=for-the-badge&logo=github"></a>
 
 **Here on these systems works AllHackingTools** <br>
 ## Tool tested on:
 
-<a href="https://github.com/mishakorzik"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/StealthVirus781"><img title="Termux" src="https://img.shields.io/badge/Tested on-Termux-blue?style=for-the-badge&logo=github"></a>
 
 ------------------------------
 > If you do not understand anything then there is a [translate](#Translate).
 
-## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/code-slash.svg"/>
+## New features:  <img width="2.1%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/code-slash.svg"/>
 
 **1) New Tools And functions**
 - New tools for penetration testing. And many new opportunities.
@@ -64,7 +64,7 @@
 
 ---
 <a id="installing"></a>
-## Installing <img width="2.5%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
+## Installing <img width="2.5%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/download.svg"/>
 
 ```
 #Upgrade all & full packages
@@ -78,7 +78,7 @@ termux-setup-storage
 apt install git
 
 #clone this repository
-git clone https://github.com/mishakorzik/AllHackingTools
+git clone https://github.com/StealthVirus781/AllHackingTools
 
 #cd to directory allhackingtools
 cd AllHackingTools
@@ -114,28 +114,28 @@ ngrok http 80
 
 <a id="viewmenu"></a>
 #### Run command to start AllHackingTools: msdconsole
-## AllHackingTool Menu:  <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/aspect-ratio-fill.svg"/>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Web Attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Cam Hacking Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Remote Trojan RAT</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SQL Injection Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce</a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">DDOS Attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Phishing Attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Hash Cracking Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Worldlist Generator</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">XSS Attack Tools</a>
-- <a href="https://github.com/mishakorzik">Discord Leaks</a>
-- <a href="https://github.com/mishakorzik">Telegram Info</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Web Crawling</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Wireless attack Tools</a>
-- <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Other Tools</a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Free Proxy</a>
-     - <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/TOOLS.md">Mix Tools</a>
+## AllHackingTool Menu:  <img width="2.1%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/aspect-ratio-fill.svg"/>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Information Gathering</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Exploitation Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Sniffing and Spoofing</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Web Attack Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Cam Hacking Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Remote Trojan RAT</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">SQL Injection Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Bruteforce</a>
+     - <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">SocialMedia Finder</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">DDOS Attack Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Phishing Attack Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Hash Cracking Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Worldlist Generator</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">XSS Attack Tools</a>
+- <a href="https://github.com/StealthVirus781">Discord Leaks</a>
+- <a href="https://github.com/StealthVirus781">Telegram Info</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Web Crawling</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Wireless attack Tools</a>
+- <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Other Tools</a>
+     - <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Free Proxy</a>
+     - <a href="https://github.com/StealthVirus781/AllHackingTools/blob/main/.github/TOOLS.md">Mix Tools</a>
 
 <details id="missing-code-coverage">
   <summary>New Commands</summary>
@@ -249,10 +249,10 @@ figlet -f block  AND  toilet -f block
 
 ```bash
 Emails:
- developer.mishakorzhik@gmail.com
+ developer.StealthVirus781@gmail.com
 
 Developers:
- mishakorzhik
+ StealthVirus
 ```
 
 ## Bug?
@@ -262,7 +262,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+   email: developer.StealthVirus781@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/envelope-fill.svg"/>
 
 3. Submit the screenshot and explain 
    your problem with that error
@@ -384,9 +384,9 @@ Desing:
 ## Dependencies
 #### If all this is then you can download!
 
-**Root     : NO ROOT**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/terminal-fill.svg"/> <br>
-**Storage  : 2200 MB**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
-**Internet : must be**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
+**Root     : NO ROOT**  <img width="2.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/terminal-fill.svg"/> <br>
+**Storage  : 2200 MB**  <img width="2.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/download.svg"/> <br>
+**Internet : must be**  <img width="2.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/wifi.svg"/> <br>
 
 #### Okay let's go installing! If it shows Are you rooted? Then ignore it!
 ---------
@@ -412,14 +412,14 @@ Desing:
 
 ---
 
-## Screanshot <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/card-image.svg"/>
+## Screanshot <img width="2.1%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/other/card-image.svg"/>
 #### view a screanshot for AllHackingTools
 <br>
 <p align="center">
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
-<img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144658.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/AllHackingToolsImg/img/StealthVirus.jpg.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/AllHackingToolsImg/img/IMG_20210720_144718.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212448.jpg"/> 
+<img width="49.0%" src="https://raw.githubusercontent.com/StealthVirus781/StealthVirus781.menu.io/master/img/AllHackingToolsImg/img/StealthVirus.jpg.jpg"/> 
 </p>
 
 -----
@@ -438,26 +438,16 @@ Desing:
 <a id="Translate"></a>
 ## Translate
 
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Ukraine.md"><img title="Ukraine" src="https://img.shields.io/badge/Translate%20to-Ukraine-inactive?style=for-the-badge&logo=google-translate"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools/blob/main/.github/README_Russia.md"><img title="Russian" src="https://img.shields.io/badge/Translate%20to-Russian-inactive?style=for-the-badge&logo=google-translate"></a>
-
-## Find Me 
-[![Github](https://img.shields.io/badge/Reddit-MishaKorzhik-red?style=for-the-badge&logo=reddit)](https://www.reddit.com/u/Necessary_Mammoth368?utm_medium=android_app&utm_source=share)
-[![Github](https://img.shields.io/badge/TELEGRAM-MishaKorzhik-orange?style=for-the-badge&logo=telegram)](https://t.me/ubp2q)
-[![Github](https://img.shields.io/badge/GitHub-MishaKorzhik-yellow?style=for-the-badge&logo=github)](https://github.com/mishakorzik)
-[![Github](https://img.shields.io/badge/Twitter-MishaKorzhik-blue?style=for-the-badge&logo=twitter)](https://twitter.com/MishaKorzhik)
-[![Github](https://img.shields.io/badge/Discord-He1Zen-blue?style=for-the-badge&logo=discord)](https://discord.gg/xwpMuMYW57)
-
 ## I recommend watching
 
-1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
-2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
-3.<a href="https://github.com/mishakorzik/AdminHack">AdminHack - Hacking bad sites</a> <br>
-4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
-5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
-6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a> <br>
-7.<a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a> <br>
-8.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
+1.<a href="https://github.com/StealthVirus781/qiq">qiq - Useful batch installer</a> <br>
+2.<a href="https://github.com/StealthVirus781/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
+3.<a href="https://github.com/StealthVirus781/AdminHack">AdminHack - Hacking bad sites</a> <br>
+4.<a href="https://github.com/StealthVirus781/Infect">Infect - Easy virus creation</a> <br>
+5.<a href="https://github.com/StealthVirus781/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
+6.<a href="https://github.com/StealthVirus781/IpHack">IpHack - Easy Tracking smartphones</a> <br>
+7.<a href="https://github.com/StealthVirus781/UserFinder">UserFinder - Find users in social</a> <br>
+8.<a href="https://github.com/StealthVirus781/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
 
 #### Here are the repositories that I recommend you look at. below are people who liked and forked the repository
 
@@ -466,11 +456,11 @@ Desing:
 **Repository Views** ![Views](https://profile-counter.glitch.me/AllHackingTools/count.svg)
 
 ---------------------------
-<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=StealthVirus781&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
 
 ###### Статья носит исследовательский характер. Она адресована специалистам по безопасности и тем, кто собирается ими стать. При ее написании использовались общедоступные базы данных. Ни редакция, ни автор не несут ответственности за неэтичное использование любых упомянутых здесь сведений. Team: He1Zen
 
 ## Supporters
-[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/stargazers)
-[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/mishakorzik/AllHackingTools)](https://github.com/mishakorzik/AllHackingTools/members)
+[![Stargazers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/stars/StealthVirus781/AllHackingTools)](https://github.com/StealthVirus781/AllHackingTools/stargazers)
+[![Forkers repo roster for @mishakorzik/AllHackingTools](https://reporoster.com/forks/StealthVirus781/AllHackingTools)](https://github.com/StealthVirus781/AllHackingTools/members)
 
