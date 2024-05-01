@@ -75,7 +75,7 @@ apt upgrade
 termux-setup-storage
 
 #Install package git
-apt install git
+pkg install git
 
 #clone this repository
 git clone https://github.com/StealthVirus781/AllHackingTools
