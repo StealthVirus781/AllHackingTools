@@ -1,12 +1,12 @@
 ```
 Contributors:
-Misha Korzhik
+Stealth Virus
 
 Programist: 
-Misha Korzhik
+Stealth Virus
 
 designer:
-Misha Korzhik
+Stealth Virus
 
 
 
