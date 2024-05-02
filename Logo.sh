@@ -1,7 +1,7 @@
 #!/usr/bin
 #Copyright 2024 AllHackingTools
 #Written by : Stealth Virus
-#Github     : http://github.com/StealthVirus871
+#Github     : http://github.com/StealthVirus781
 
 echo '
 [1]
